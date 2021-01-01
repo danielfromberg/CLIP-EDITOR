@@ -1,6 +1,5 @@
 # CLIP-EDITOR
-Rough draft of a real time video editor for skips, loops, and pitch changes.
-
+Rough draft of a real time video editor for creating skips and loops based on several simple algorithmic functions for tempo and time location.
 
 TUTORIAL: https://www.youtube.com/watch?v=1L1LKraVswQ
 
