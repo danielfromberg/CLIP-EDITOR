@@ -1,4 +1,5 @@
-There will be writing here soon. 
+Download this patch, have Max installed (trial is okay, so is lapsed trial), and make sure you also download the abstraction colorSwap.maxpat and place the file wherever Max looks in your computer's file directory for patchers. 
+
+There will be more writing here soon. Happy clipping. 
 
 
-Download this patch, have Max installed, and make sure the abstraction colorSwap is located wherever Max looks in the file directory for patchers on your computer. 
